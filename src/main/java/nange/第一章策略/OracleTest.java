@@ -1,4 +1,4 @@
-package nange.策略;
+package nange.第一章策略;
 
 import java.io.ByteArrayOutputStream;
 import java.io.FileInputStream;
